@@ -1,0 +1,10 @@
+C:\Development\Projects\OpenGLDotNet\bin\Debug\OpenGLDotNet.dll
+C:\Development\Projects\OpenGLDotNet\bin\Debug\OpenGLDotNet.pdb
+C:\Development\Projects\OpenGLDotNet\obj\x86\Debug\OpenGLDotNet.dll
+C:\Development\Projects\OpenGLDotNet\obj\x86\Debug\OpenGLDotNet.pdb
+C:\Development\Projects\OpenGLDotNet\obj\x86\Debug\OpenGLDotNet.csprojResolveAssemblyReference.cache
+E:\Black Heaven Studios\Software\Dependencies\OpenGLDotNet\bin\Debug\OpenGLDotNet.dll
+E:\Black Heaven Studios\Software\Dependencies\OpenGLDotNet\bin\Debug\OpenGLDotNet.pdb
+E:\Black Heaven Studios\Software\Dependencies\OpenGLDotNet\obj\x86\Debug\OpenGLDotNet.csprojResolveAssemblyReference.cache
+E:\Black Heaven Studios\Software\Dependencies\OpenGLDotNet\obj\x86\Debug\OpenGLDotNet.dll
+E:\Black Heaven Studios\Software\Dependencies\OpenGLDotNet\obj\x86\Debug\OpenGLDotNet.pdb

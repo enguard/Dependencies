@@ -1,0 +1,5 @@
+C:\Development\Projects\OpenGLDotNet\bin\Release\OpenGLDotNet.dll
+C:\Development\Projects\OpenGLDotNet\bin\Release\OpenGLDotNet.pdb
+C:\Development\Projects\OpenGLDotNet\obj\x86\Release\OpenGLDotNet.dll
+C:\Development\Projects\OpenGLDotNet\obj\x86\Release\OpenGLDotNet.pdb
+C:\Development\Projects\OpenGLDotNet\obj\x86\Release\OpenGLDotNet.csprojResolveAssemblyReference.cache
