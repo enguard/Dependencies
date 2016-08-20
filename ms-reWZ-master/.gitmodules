@@ -1,0 +1,3 @@
+[submodule "UsefulThings"]
+	path = UsefulThings
+	url = https://github.com/angelsl/misc-UsefulThings.cs.git
